@@ -9,8 +9,8 @@ function App() {
         <a
           className="App-link"
           href="https://calendar.google.com/calendar/embed?src=pj4va06gncb1vgv76864hbsh08%40group.calendar.google.com&ctz=Europe%2FMoscow"
-          padding-bottom="80%"
-          padding-top= "50px"
+          padding-bottom="56%"
+          padding-top= "40px"
           height= "0"
           overflow= "hidden"
           target="_blank"
