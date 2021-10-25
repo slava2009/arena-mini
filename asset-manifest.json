@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arena-mini/static/css/main.acf65de4.chunk.css",
-    "main.js": "/arena-mini/static/js/main.0e5466bb.chunk.js",
-    "main.js.map": "/arena-mini/static/js/main.0e5466bb.chunk.js.map",
+    "main.js": "/arena-mini/static/js/main.e90d3450.chunk.js",
+    "main.js.map": "/arena-mini/static/js/main.e90d3450.chunk.js.map",
     "runtime-main.js": "/arena-mini/static/js/runtime-main.91b63d10.js",
     "runtime-main.js.map": "/arena-mini/static/js/runtime-main.91b63d10.js.map",
     "static/js/2.6c698087.chunk.js": "/arena-mini/static/js/2.6c698087.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.91b63d10.js",
     "static/js/2.6c698087.chunk.js",
     "static/css/main.acf65de4.chunk.css",
-    "static/js/main.0e5466bb.chunk.js"
+    "static/js/main.e90d3450.chunk.js"
   ]
 }
